@@ -1,4 +1,4 @@
-<h3 align="center">web and game developer from Türkiye</h3>
+<h3 align="center">web and game developer</h3>
 
 
 <h3 align="center">languages, frameworks and tools</h3>
