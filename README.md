@@ -3,4 +3,4 @@
 
 <h3 align="center">languages, frameworks and tools</h3>
 
-go, dart, ruby, rust, elixir, crystal, c++, java, typescript, python, angular, nodejs, html5-css3, flutter, django, godot, electron, unreal engine 4-5.
+dart, ruby, rust, elixir, crystal, c++, c, java, typescript, python, angular, nodejs, html5-css3, flutter, django, godot, electron, unreal engine 4-5.
