@@ -1,6 +1,10 @@
 <h3 align="center">programmer and game developer</h3>
 
 
-<h3 align="center">languages, frameworks and tools</h3>
+<h3 align="center">languages and frameworks</h3>
 
-dart, ruby, rust, elixir, crystal, assembly, go, typescript, python, angular, nodejs, html5-css3, flutter, django, godot, electron, unreal engine 4-5.
+dart, ruby, rust, erlang, elixir, crystal, assembly, go, javascript, typescript, python, angular, nodejs, flutter, django, electron.
+
+<h3 align="center">tools</h3>
+
+aseprite, unreal engine 4-5 and godot.
