@@ -2,7 +2,7 @@
 
 <h3 align="center">languages and frameworks</h3>
 
-              dart, ruby, rust, erlang, elixir, crystal, assembly, go, javascript, typescript, python, angular, nodejs, flutter, django, electron.
+  dart, ruby, rust, erlang, elixir, crystal, assembly, go, javascript, typescript, python, angular, nodejs, flutter, django, electron.
 
 <h3 align="center">tools</h3>
   
