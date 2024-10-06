@@ -1,4 +1,4 @@
-<h3 align="center">programmer, game & web developer and scripter</h3>
+<h3 align="center">programmer, game & web developer and ai & ml developer</h3>
 
 <h3 align="center">languages, frameworks and tools</h3>
 
