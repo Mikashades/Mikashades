@@ -1,3 +1,3 @@
-<h3 align="center">pixel artist, programmer, game & web developer and ai & ml developer</h3>
+<h3 align="center">programmer, game & web developer and pixel artist</h3>
 
                                                           thats all
