@@ -1,5 +1,1 @@
-<h3 align="center">pixel artist, app&script&web developer, game designer and programmer.</h3>
-<h3 align="center">interested in data mining and cybersec.</h3>
-
-
-                                                          thats all
+<h3 align="center">Programmer, game designer, pixel artist, scripter, dataminer, beginner app&web developer and interested in cyber security</h3>
