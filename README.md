@@ -1,4 +1,4 @@
-                                                        Heya! I'am
+                                                            Heya! I'am
 
 <h3 align="center">Programmer,</h3>
 <h3 align="center">Game designer,</h3>
@@ -8,4 +8,4 @@
 <h3 align="center">Beginner app&web developer,</h3>
 <h3 align="center">İnterested in Cyber Security</h3>
 
-                                                        Thats All
+                                                            Thats All
