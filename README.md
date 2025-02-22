@@ -1,11 +1,12 @@
 # Heya, I'm Mikashades!
 
+<h3 align="center">I'm A,</h3>
 <h3 align="center">Programmer,</h3>
-<h3 align="center">Pixel artist,</h3>
-<h3 align="center">Game designer,</h3>
-<h3 align="center">App&Web&Bot Developer,</h3>
-<h3 align="center">Interested in Cyber Security Stuff</h3>
-<h3 align="center">Translator at https://openanime.net</h3>
+<h2 align="center">Pixel artist,</h2>
+<h1 align="center">Game designer,</h1>
+<h1 align="center">App & Web & Bot Developer,</h1>
+<h1 align="center">Interested in Cyber Security Stuff</h1>
+<h1 align="center">Translator at <a href="https://openanime.net">OpenAnime</a></h1>
 
 # Software I know and have experienced before
 
