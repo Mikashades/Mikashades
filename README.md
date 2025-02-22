@@ -1,8 +1,8 @@
 # Heya, I'm Mikashades!
 
 <h3 align="center">I'm A,</h3>
-<h3 align="center">Programmer,</h3>
 <h3 align="center">Pixel artist,</h3>
+<h3 align="center">Programmer,</h3>
 <h3 align="center">Game designer,</h3>
 <h3 align="center">Pentester & Scripter,</h3>
 <h3 align="center">Translator at <a href="https://openanime.net">OpenAnime</a></h3>
