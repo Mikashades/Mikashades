@@ -23,6 +23,7 @@
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white) 
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat&logo=Clojure&logoColor=Clojure) 
 ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=flat&logo=crystal&logoColor=white) 
+![Twig](https://img.shields.io/badge/Twig-%2380BD41.svg?style=flat&logo=twig&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white) 
