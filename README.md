@@ -4,10 +4,8 @@
 <h3 align="center">Pixel artist,</h3>
 <h3 align="center">Programmer,</h3>
 <h3 align="center">Game designer,</h3>
-<h3 align="center">Pentester & Scripter,</h3>
 <h3 align="center">Translator at <a href="https://openanime.net">OpenAnime</a></h3>
-<h3 align="center">App & Web & Bot Developer,</h3>
-<h3 align="center">Reverse Engineer & Exploit Developer</h3>
+<h3 align="center">Also i'm interested in scripting and exploit development</h3>
 
 # Software I know and have experienced before
 
